@@ -2,7 +2,7 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://RAEX86.io)
 <h1 align="center">Hi 👋, I'm Divyangshu Mahato</h1>
-<h3 align="center">A passionate frontend developer from India with hands on experience in AI/ML</h3>
+<h3 align="center">A passionate Web developer with hands-on experience in AI/ML</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 
